@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blake&#39;s R Blog</title>
-    <link>/</link>
+    <link>https://www.gottalottasoul.com/</link>
     <description>Recent content on Blake&#39;s R Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.gottalottasoul.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>https://www.gottalottasoul.com/about/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://www.gottalottasoul.com/about/</guid>
       <description>Hi there! Thanks for stopping by.
-I&amp;rsquo;ve been using R to help companies harness and understand their data for about 10 years.</description>
+If you&amp;rsquo;ve somehow stumbled across this page you are probably either a.</description>
     </item>
     
     <item>
       <title>Testing 1,2</title>
-      <link>/post/2020-08-07-r-rmarkdown/</link>
+      <link>https://www.gottalottasoul.com/post/2020-08-07-r-rmarkdown/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/2020-08-07-r-rmarkdown/</guid>
+      <guid>https://www.gottalottasoul.com/post/2020-08-07-r-rmarkdown/</guid>
       <description>Hello World? Making sure we can get this thing off the ground!</description>
     </item>
     
     <item>
       <title></title>
-      <link>/archives/</link>
+      <link>https://www.gottalottasoul.com/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/archives/</guid>
+      <guid>https://www.gottalottasoul.com/archives/</guid>
       <description></description>
     </item>
     

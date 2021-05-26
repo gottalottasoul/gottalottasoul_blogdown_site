@@ -11,13 +11,13 @@ enableRobotsTXT = true
 #disqusShortname = ""
 
 # Google Analytics
-#googleAnalytics = "UA-4974577-3"
+googleAnalytics = "UA-4974577-3"
 
 [params]
 title = "Blake's R Blog"
 author = "Blake Abbenante"
 description = "My not-so-polished blog about R"
-profilePicture = "images/profile.png"
+profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
 customCss = []

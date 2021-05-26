@@ -8,11 +8,13 @@ author = "Blake Abbenante"
 
 **Hi there! Thanks for stopping by.**  
 
-I've been using R to help companies harness and understand their data for about 10 years. For about 9 of those years, I've told myself I should organize, document and publish some of the tips and techniques I've found useful after hours (or days) of searching.  
+If you've somehow stumbled across this page you are probably either a. related to me, or b. lost.  Ostensibly I have created this site to have a place to explore and showcase some examples for using R outside of my day to day work. 
 
-By day I work in the analytics/data science space, using data to inform business strategy and decisions - primarily in the Marketing, Sales and/or Operations space.  
+By day I spend my time in the analytics/data science space, using data to inform business strategy and decisions - primarily in the Marketing, Sales and/or Operations space.  
 
-You can find also find me over at [abbenante.com](https://www.abbenante.com) for less technical (but no less fun) content.
+By nite I am usually wrangling 2 kids and a dog, and watching Boston sports with whatever leftover time I have.
+
+You can find also find me over at [abbenante.com](https://www.abbenante.com) for less technical (and probably more fun - depending on your tolerance of dogs and children) content.
 
 
 
